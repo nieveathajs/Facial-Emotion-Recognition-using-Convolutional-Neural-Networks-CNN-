@@ -73,7 +73,8 @@ The dataset contains images of individuals displaying one of 7 emotions. It incl
 
 ---
 
-## 👩‍🎓 Author
+## 👩‍🎓 Author : Nieveatha
+
 Developed and tested in **Google Colab** as part of a deep learning project.
 
 ---
